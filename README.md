@@ -1,2 +1,2 @@
-# Guia6
+# Trabajo6
 Trabajo6
